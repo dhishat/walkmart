@@ -1,0 +1,5 @@
+{
+"ResponseCode": {{ response_code }},
+"ResponseMessage": {{ response_code }},
+"{{ response_node }}" : {{ payload }},
+}
